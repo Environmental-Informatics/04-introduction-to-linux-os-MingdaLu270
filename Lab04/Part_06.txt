@@ -1,0 +1,7 @@
+first sentence to insert:
+hello world!!
+out.
+
+third sentence:
+second was dicarded by :q!
+out.
